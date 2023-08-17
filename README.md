@@ -7,17 +7,16 @@
   - [Humbleify Penetration Testing and Reporting](https://drive.google.com/file/d/1OqcdBKw6sPe1F6KPONg_-LbJ3EYWodu-/view?usp=sharing)
 
 - <b>WebDev</b>
-  -Simple Recipe Guide
+  - Simple Recipe Guide
 
 
 <h2>📑 Certifications</h2>
 
-- CompTIA: [Security+ ce](https://www.credly.com/badges/27eea085-afc2-4fc0-aaec-fd8efb252171/public_url)
-- (ISC)2: Certified in Cybersecurity
-- (ISC)2: [Candidate](https://www.credly.com/badges/3682e4ce-2cc8-474c-add4-7ef0eae3dbcd/public_url)
-- Coursera: [Introduction to Big Data](https://coursera.org/share/fc8e72004297fa40fe9828241d7aaefe)
-- Cisco Networking Academy: [Introduction to Cybersecurity](https://www.credly.com/badges/4b130a4e-3799-415f-83d9-8af63d5bd750/public_url)
-- Cisco Networking Academy: [Cybersecurity Essentials](https://www.credly.com/badges/0b4567d7-996c-4428-8f89-7387b3089620/public_url)
+- <b>CompTIA:</b> [Security+ ce](https://www.credly.com/badges/27eea085-afc2-4fc0-aaec-fd8efb252171/public_url)
+- <b>(ISC)2: Certified in Cybersecurity</b>
+- <b>Coursera:</b> [Introduction to Big Data](https://coursera.org/share/fc8e72004297fa40fe9828241d7aaefe)
+- <b>Cisco Networking Academy:</b> [Introduction to Cybersecurity](https://www.credly.com/badges/4b130a4e-3799-415f-83d9-8af63d5bd750/public_url)
+- <b>Cisco Networking Academy:</b> [Cybersecurity Essentials](https://www.credly.com/badges/0b4567d7-996c-4428-8f89-7387b3089620/public_url)
 
 <h2> 🤳 Connect with me:</h2>
 
