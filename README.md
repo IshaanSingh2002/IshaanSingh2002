@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ishaan! <br/><a href="https://github.com/IshaanSingh2002">Programmer</a>, <a href="www.linkedin.com/in/ishaan-singh-50703220b">Cybersecurity Enthusiast</a></h1>
+<h1>Hi, I'm Ishaan! ⛹🏻<br/><a href="https://github.com/IshaanSingh2002">Programmer</a>, <a href="www.linkedin.com/in/ishaan-singh-50703220b">Cybersecurity Enthusiast</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
 
