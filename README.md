@@ -21,7 +21,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Hello | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Hello | Twitter" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg](https://cdn.ithinkdiff.com/wp-content/uploads/2023/08/Twitter-X-768x403.jpg)" />][twitter]
 [<img align="left" alt="Hello | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [twitter]: https://twitter.com/IshaanS82994275
