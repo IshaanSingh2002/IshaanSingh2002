@@ -3,6 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Cybersecurity</b>
+  - [Virtual Fortress: System Hardening Automation Tool](https://github.com/adex42/Virtual-Fortress/tree/main)
   - [Strong Random Password Generator](https://github.com/IshaanSingh2002/PassGen)
   - [Humbleify Penetration Testing and Reporting](https://drive.google.com/file/d/1OqcdBKw6sPe1F6KPONg_-LbJ3EYWodu-/view?usp=sharing)
 
