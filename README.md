@@ -8,7 +8,7 @@
   - [Humbleify Penetration Testing and Reporting](https://drive.google.com/file/d/1OqcdBKw6sPe1F6KPONg_-LbJ3EYWodu-/view?usp=sharing)
 
 - <b>WebDev</b>
-  - Simple Recipe Guide
+  - [Simple Recipe Guide](https://github.com/IshaanSingh2002/RecipeGuide/blob/main/README.md)
 
 
 <h2>📑 Certifications</h2>
